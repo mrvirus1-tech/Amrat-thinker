@@ -1,0 +1,6 @@
+{
+  "name": "Smart Thinker",
+  "description": "All-in-one intelligent AI study, smart notes, summarization, quizzes, and exam preparation application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
